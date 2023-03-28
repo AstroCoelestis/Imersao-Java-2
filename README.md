@@ -10,10 +10,9 @@ A Imersão Java é um evento gratuito oferecido pela Alura com o objetivo de des
  + Por fim, utilizamos o loop `for (Map<String,String>` para gerar uma lista contendo o **Título**, a **Imagem** e a **Classificação** dos filmes.
 
 ### Resultado + Desafio
-![Resultado Aula 1](/assets/images/Resultado Aula 1.png)
-![Resultado Desafio 1](/assets/images/Resultado Aula 1 - Desafio 1.png)
-![Resultado Desafio 2](/assets/images/Resultado Aula 2 - Desafio 2.png)
-![Resultado Desafio 3](/assets/images/Resultado Aula 3 - Desafio 3.png)
+![Resultado Aula 1](https://github.com/AstroCoelestis/Imersao-Java-2/blob/main/Aula%201%20%E2%80%94%20IMDb-API/Imagens/Resultado%20Aula%201.png?raw=true)
+![Resultado Desafio 1](https://github.com/AstroCoelestis/Imersao-Java-2/blob/main/Aula%201%20%E2%80%94%20IMDb-API/Imagens/Resultado%20Aula%201%20-%20Desafio%201.png?raw=true)
+![Resultado Desafio 2](https://github.com/AstroCoelestis/Imersao-Java-2/blob/main/Aula%201%20%E2%80%94%20IMDb-API/Imagens/Resultado%20Aula%201%20-%20Desafio%202.png?raw=true)
+![Resultado Desafio 3](https://github.com/AstroCoelestis/Imersao-Java-2/blob/main/Aula%201%20%E2%80%94%20IMDb-API/Imagens/Resultado%20Aula%201%20-%20Desafio%203.png?raw=true)
 
 *******
-
