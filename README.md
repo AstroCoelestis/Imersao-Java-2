@@ -9,7 +9,7 @@ A Imersão Java é um evento gratuito oferecido pela Alura com o objetivo de des
  + Com *endpoint* fornecido pela API, usamos um código **[Json Parser](https://gist.github.com/alexandreaquiles/cf337d3bcb59dd790ed2b08a0a4db7a3)** para analisar-lo e retornar somente os dados necessários para essa aula.
  + Por fim, utilizamos o loop `for (Map<String,String>` para gerar uma lista contendo o **Título**, a **Imagem** e a **Classificação** dos filmes.
 
-### Resultado + Desafio
+#### Resultado Aula 1 + Desafios 1, 2 e 3
 ![Resultado Aula 1](https://github.com/AstroCoelestis/Imersao-Java-2/blob/main/Aula%201%20%E2%80%94%20IMDb-API/Imagens/Resultado%20Aula%201.png?raw=true)
 ![Resultado Desafio 1](https://github.com/AstroCoelestis/Imersao-Java-2/blob/main/Aula%201%20%E2%80%94%20IMDb-API/Imagens/Resultado%20Aula%201%20-%20Desafio%201.png?raw=true)
 ![Resultado Desafio 2](https://github.com/AstroCoelestis/Imersao-Java-2/blob/main/Aula%201%20%E2%80%94%20IMDb-API/Imagens/Resultado%20Aula%201%20-%20Desafio%202.png?raw=true)
